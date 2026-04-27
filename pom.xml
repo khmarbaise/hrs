@@ -265,10 +265,6 @@
                         </goals>
                     </execution>
                 </executions>
-                <configuration>
-                    <trimStackTrace>false</trimStackTrace>
-                    <enableAssertions>true</enableAssertions>
-                </configuration>
             </plugin>
         </plugins>
     </build>
